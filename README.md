@@ -1,7 +1,7 @@
 # Eremos
 
 **Autonomous swarm agents for early on-chain signal detection.**  
-Eremos is a lightweight framework for deploying modular agents that monitor blockchain activity — tracking wallet clusters, mint patterns, and contract anomalies.  
+Eremos is a lightweight framework for deploying modular agents that monitor blockchain activity - tracking wallet clusters, mint patterns, and contract anomalies.  
 Built for devs who want low-noise, early signals embedded into their workflow or protocol stack.
 
 ---
@@ -30,7 +30,7 @@ Built for devs who want low-noise, early signals embedded into their workflow or
 ## Getting Started
 
 ```bash
-git clone https://github.com/your-org/eremos.git
+git clone https://github.com/eremoscore/eremos.git
 cd eremos
 npm install
 ```
@@ -52,4 +52,4 @@ MIT © Eremos
 ## Links
 
 - **Twitter:** [@EremosCore](https://x.com/EremosCore)
-- **Website:** Coming soon
+- **Website:** Coming soon!
