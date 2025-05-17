@@ -1,3 +1,5 @@
 export function generateSignalHash(event: any): string {
-  return "sig_" + Math.random().toString(36).substring(2, 10);
+  const base = JSON.stringify(event) + Date.now();
+  const hash = Buffer.from(base).toString("base64").slice(0, 10);
+  return "sig_" + hash;
 }
