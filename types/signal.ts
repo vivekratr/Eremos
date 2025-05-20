@@ -4,3 +4,5 @@ export type Signal = {
   timestamp: string;
   source: string;
 };
+
+// TODO: add error handling for malformed signal payloads
