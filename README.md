@@ -71,6 +71,6 @@ MIT © Eremos
 ## Links
 
 - **Twitter:** [@EremosCore](https://x.com/EremosCore)  
-- **Website:** Coming soon
+- **Website:** Coming soon.
 
 _Maintained by the Eremos Core team._
