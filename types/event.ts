@@ -1,6 +1,13 @@
-export type WalletEvent = {
+export type WalletActivityEvent = {
   type: "wallet_activity";
-  wallet: string;
-  txCount: number;
-  timestamp: string;
+  address: string;
+  timestamp: number;
+  cluster?: string[];
+};
+
+export type Signal = {
+  type: string;
+  payload: any;
+  timestamp: number;
+  source: string;
 };
