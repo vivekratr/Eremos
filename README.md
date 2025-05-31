@@ -9,11 +9,11 @@ Designed for devs who want low-noise, early signals embedded into their workflow
 ---
 
 <p align="center">
-  <img src="docs/theronTPhd.png" alt="Agent Theron" width="150"/><br/>
-  <em>Theron — Agent-000</em>
+  <img src="docs/theronTPhd.png" alt="Agent Theron" width="155"/><br/>
+  <em>Theron - Agent-000</em>
 </p>
 
-**Meet Theron — Agent-000**  
+**Meet Theron - Agent-000**  
 The first deployed agent in the swarm. Passive. Pattern-sensitive.  
 Modular and extendable by design.
 
