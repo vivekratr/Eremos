@@ -53,7 +53,7 @@ npm run dev
 - `/utils` - Shared signal/logging utilities  
 - `/types` - TypeScript interfaces + definitions  
 - `/scripts` - Bootstrap and dev scripts  
-- `/docs` - Swarm structure, architecture, signal taxonomy
+- `/docs` - Swarm structure, architecture, & signal taxonomy
 
 ---
 
