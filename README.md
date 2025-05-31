@@ -8,6 +8,16 @@ Designed for devs who want low-noise, early signals embedded into their workflow
 
 ---
 
+<p align="center">
+  <img src="docs/theronTPhd.png" alt="Agent Theron" width="120"/>
+</p>
+
+**Meet Theron — Agent-000**  
+The first deployed agent in the swarm. Passive. Pattern-sensitive.  
+Modular and extendable by design.
+
+---
+
 ## Features
 
 - **Modular Agents** - Scoped logic for detecting wallet activity, contract spawns, and anomalies  
