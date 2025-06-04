@@ -26,4 +26,4 @@ These tokens can represent tags, signal IDs, or abstract state cues.
 
 - Avoid storing raw data or full event payloads.
 
-- Memory is optional — use it when the agent benefits from context or history.
+- Memory is optional - use it when the agent benefits from context or history.
