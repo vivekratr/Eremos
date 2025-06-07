@@ -2,7 +2,7 @@ import { Agent } from "../types/agent"
 
 export const Observer: Agent = {
   id: "agent-observer",
-  name: "Watcher",
+  name: "Observer",
   role: "surveillance",
   glyph: "Δ",
   watchType: "wallet_activity",
