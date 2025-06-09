@@ -12,3 +12,4 @@ Glyphs are used in:
 - `logSignal()`
 - visualizations
 - agent memory logs
+- + more to come
