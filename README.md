@@ -72,7 +72,7 @@ npm run dev
 ## Contributing
 
 We’re open to contributors.  
-If you know TypeScript and like agent-based systems, check `example.ts` and build your own observer.
+If you are experienced in TypeScript and like agent-based systems, check `example.ts` and build your own observer.
 
 ---
 
