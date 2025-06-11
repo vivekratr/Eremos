@@ -32,13 +32,10 @@ Modular and extendable by design.
 
 ## Tech Stack
 
-- **Frontend:** Next.js, Tailwind CSS  
-- **Backend:** Node.js (agent runner)  
-- **Chain Layer:** RPC watchers, mempool filters, native triggers  
-- **Optional:**  
-  - Token metadata APIs  
-  - Contract scanners  
-  - Risk flags
+- **Frontend:** Next.js, Tailwind CSS
+- **Backend:** Node.js (TypeScript-based agent runner)
+- **Language:** TypeScript (typed logic across agents, utils, and infra)
+- **Chain Layer:** RPC watchers, mempool filters, native triggers
 
 ---
 
