@@ -27,6 +27,7 @@ Modular and extendable by design.
 - **Swarm Design** - Each agent operates independently with shared utilities  
 - **Extensible Core** - Plug in watchers, inference layers, or custom triggers  
 - **Minimal Output** - Log only what matters
+- **Launch Wallet Detection** – Agents can trace freshly funded wallets (e.g. from CEXs), track their contract interactions, and flag high-confidence deploys in real time
 
 ---
 
