@@ -55,6 +55,18 @@ An example signal emitted by an agent detecting a live token deployment:
 
 ---
 
+## Signal Confidence
+
+Each emitted signal includes a `confidence` score (0–1) based on behavioral heuristics:
+- CEX-origin funding (e.g. Kraken, Coinbase)
+- Time between funding → deploy
+- Wallet linkage density (bundled activity)
+- Token metadata validation
+
+Confidence is computed via agent-side scoring and logged alongside the signal.
+
+---
+
 ## Tech Stack
 
 - **Frontend:** Next.js, Tailwind CSS
