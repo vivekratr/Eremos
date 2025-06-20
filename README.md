@@ -121,6 +121,6 @@ MIT © Eremos
 ## Links
 
 - **Twitter:** [@EremosCore](https://x.com/EremosCore)  
-- **Website:** Coming soon.
+- **Website:** [Eremos](https://www.eremos.io/) 
 
 _Maintained by the Eremos Core team._
