@@ -18,7 +18,7 @@ export const LaunchTracker: Agent = {
   observe: (event) => {
     if (
       event?.type === "wallet_activity" &&
-      event.source === "kraken" && // needs to include the rest, will focus on this soon.
+      event.source === "kraken" &&
       event.fundingDetected &&
       event.deployDetected &&
       event.bundleCount >= 3
