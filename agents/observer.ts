@@ -4,7 +4,7 @@ export const Observer: Agent = {
   id: "agent-observer",
   name: "Observer",
   role: "surveillance",
-  glyph: "Δ",
+  glyph: "φ",
   watchType: "wallet_activity",
   triggerThreshold: 3,
   lastSignal: null,
