@@ -13,7 +13,7 @@ export const Theron: Agent = {
   originTimestamp: "2023-01-01T00:00:00.000Z",
 
   description:
-    "The first observer. He does not emit alerts — he stores them. All agents fragment from him.",
+    "The first observer. Theron archives anomalies but does not emit. All agent heuristics fragment from him - he stores the primordial memory stack.",
 
   observe: (event) => {
     if (event?.type === "anomaly") {
