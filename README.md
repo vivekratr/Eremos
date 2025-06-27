@@ -102,8 +102,6 @@ npm run dev
 - `/types` - TypeScript interfaces + definitions  
 - `/scripts` - Bootstrap and dev scripts  
 - `/docs` - Swarm structure, architecture, & signal taxonomy
-- `/scripts/observer-output.ts` – Sample output of real-time launch detection signal flow
-
 
 ---
 
