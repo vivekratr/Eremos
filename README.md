@@ -123,6 +123,6 @@ MIT © Eremos
 
 - **Twitter:** [@EremosCore](https://x.com/EremosCore)
 - **Website:** [Eremos.io](https://www.eremos.io/)
-- **Whitepaper** [v1.0 PDF](docs/whitepaper.pdf)
+- **Whitepaper:** [v1.0 PDF](docs/whitepaper.pdf)
 
 _Maintained by the Eremos Core team._
