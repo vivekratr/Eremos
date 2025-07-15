@@ -8,5 +8,3 @@ export function shouldEmit(agentId: string, cooldown: number): boolean {
   }
   return false;
 }
-
-//pending rework.
