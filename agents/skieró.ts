@@ -4,7 +4,7 @@ import { generateSignalHash } from "../utils/signal";
 
 export const GhostWatcher: Agent = {
   id: "agent-022",
-  name: "Skieró",
+  name: "Skieró", //pending name change
   role: "dormant_wallet_monitor",
   watchType: "wallet_activity",
   glyph: "ψ",
