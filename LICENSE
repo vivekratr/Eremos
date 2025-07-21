@@ -1,11 +1,12 @@
-// Eremos Swarm Agent Framework
-// Copyright (c) 2025 EremosCore
-//
-// Released under the MIT License.
-// Eremos is a decentralized observer system built for Solana—designed to detect early signals
-// from the edges of on-chain noise. Use it, fork it, fragment it, build your own swarm.
-//
-// The terms below apply to all source code and documentation in this repository.
+Eremos Swarm Agent Framework
+Copyright (c) 2025 EremosCore
+
+Released under the MIT License.
+
+Eremos is a decentralized observer system built for Solana - designed to detect early signals
+from the edges of on-chain noise. Use it, fork it, fragment it, build your own swarm.
+
+The terms below apply to all source code and documentation in this repository.
 
 MIT License
 
